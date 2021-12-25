@@ -1,0 +1,16 @@
+{
+    "name": "",
+    "description": "",
+    "image": "",
+    "attributes": [
+        {"trait_type": "Body", "value": ""},
+        {"trait_type": "Weapon", "value": ""},
+        {"trait_type": "Helmet", "value": ""},
+        {"trait_type": "Shield", "value": ""},
+        {"trait_type": "Pattern", "value": ""},
+        {"trait_type": "Color", "value": ""}
+    ]
+}
+
+
+

@@ -1,0 +1,11 @@
+dependencies:
+  # - <organization/repo>@<version>
+  - OpenZeppelin/openzeppelin-contracts@4.3.2
+compiler:
+  solc:
+    # version: '0.8.0'
+    remappings:
+      - '@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.3.2'
+dotenv: .env
+wallets:
+  from_key: ${PRIVATE_KEY}
