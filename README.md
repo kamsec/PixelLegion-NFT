@@ -4,7 +4,7 @@
 ## Summary:
 This repository contains source files of PixelLegion NFT project on Polygon blockchain. \
 It was created using:
-- Python (PIL, pandas), Pinata
+- Python3.8 (PIL, pandas), Pinata
 - Solidity (Brownie, solc)
 - JavaScript (React, useDapp, MaterialUI)
 
