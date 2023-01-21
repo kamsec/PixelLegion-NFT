@@ -1,5 +1,5 @@
 {
-    "appBaseName": "/",
+    "appBaseName": "/PixelLegion-NFT",
     "contract": "0xc50BC666462CbFc5Bf2EFD2e329E2A1154e8fd15",
     "deploymentChainId": 137,
     "deploymentChain": "Polygon",
